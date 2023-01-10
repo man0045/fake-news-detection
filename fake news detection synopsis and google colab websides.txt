@@ -1,0 +1,19 @@
+about the dataset:
+1.id: unique id for a news article
+2.title: the title of news article
+3. author : author of news article
+4. text: the text of the article could be incomplete
+5. label: a label that marks whether the news article is real or fake
+           1 represents FAKE NEWS
+           0 represents REAL NEWS
+nltk===natural language toolkits
+corpus means the body of the particular text,the important content of the text 
+train _test_split : this function is used to split our data set into training data and textual data
+stopwords :--  Stop Words: A stop word is a commonly used word (such as “the”, “a”, “an”, “in”) that a search engine has been programmed to ignore, both when ...
+portstemmer :--- The Porter stemming algorithm (or 'Porter stemmer') is a process for
+                  removing the commoner morphological and inflexional endings from words in English. Its main use is as part of a term normalisation process that
+                   is usually done when setting up Information Retrieval systems.
+https://colab.research.google.com/drive/1JmxcSNqPVem4AcFf-pQLWY7WIA4VDoJD#scrollTo=PY92Trbaosom
+Stemming:
+
+Stemming is the process of reducing a word to its Root word
